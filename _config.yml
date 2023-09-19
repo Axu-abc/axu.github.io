@@ -13,7 +13,7 @@ title                    : "Learning&Writing"
 title_separator          : "-"
 name                     : "Axu"
 description              : "My reading and studying notes."
-url                      : "https://axu.github.io"
+url                      : "https://axu-abc.github.io/axu.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : axu.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
